@@ -11,3 +11,6 @@ masukin link penting:
 
 3. Integrating React + Flask
 - https://developer.okta.com/blog/2018/12/20/crud-app-with-python-flask-react (source code + explanation)
+
+4. CRUD app Flask + React
+- https://github.com/jackjyq/fullstack_tutorial
